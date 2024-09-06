@@ -10,6 +10,6 @@ public class BiodataAbel {
         System.out.println("Program Studi           : Sistem Informasi Bisnis");
         System.out.println("Hobi                    : Mendengarkan musik");
         System.out.println("Berat Badan             : 50 kg");
-        System.out.println("Tinggi Badan            : 160 cm");
+        System.out.println("Tinggi Badan            : 160 cm.");
     }
 }
